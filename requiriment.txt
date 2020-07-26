@@ -1,0 +1,20 @@
+Make SPA
+
+Webpack (import/export)
+ Babel
+ Scss
+ ESLint
+ 2 Mods
+  - Dev
+  - Dev Server, SourceMaps, ESLint, Not Minified JS & CSS
+  - Prod
+  - Minified code
+Git
+ Production
+  1.0.0
+  -----------
+ Development
+  1.0.2
+  1. -------------- PR+ -- (then branch2 - deleted)
+  2. ---------------- (new branch)
+  PR (Pool Request)
